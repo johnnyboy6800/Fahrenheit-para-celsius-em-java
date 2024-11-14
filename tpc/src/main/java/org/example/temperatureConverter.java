@@ -18,7 +18,12 @@ public class temperatureConverter implements ActionListener{
         label1  = new JLabel("Insira um valor Fahrenheit para converter para celsius");
         label2 = new JLabel();
         textField1  = new JTextField(10);
+        Font font = new Font("Arial", Font.PLAIN, 24);
+        label2.setFont(font);
+        label1.setFont(font);
+        textField1.setFont(font);
         button1 = new JButton("converter valor");
+        button1.setFont(font);
         button1.setBackground(Color.darkGray);
         button1.setForeground(Color.white);
         button1.addActionListener(this);
@@ -28,6 +33,7 @@ public class temperatureConverter implements ActionListener{
         mainPanel.add(label2);
         mainPanel.add(textField1);
         mainPanel.add(button1);
+        
 
     }
 
@@ -44,7 +50,7 @@ public class temperatureConverter implements ActionListener{
             int result = Integer.parseInt(valor);
             int calculo = (result - 32) * 5 / 9;
 
-            label2.setText(calculo + "º graus celsius");
+            label2.setText(calculo + " graus celsius");
             mainPanel.revalidate();
             mainPanel.repaint();
         }catch (Exception error) {
