@@ -4,7 +4,15 @@ Converta um valor de Fahrenheit para celsius utilizando este programa.
 Este programa foi feito utilizando a biblioteca java swing
 
 
-![Captura de tela 2024-11-13 174844](https://github.com/user-attachments/assets/61052efd-886c-4bed-95c5-5f8caabb55f0)
+
+
+![Screenshot from 2024-11-15 18-34-52](https://github.com/user-attachments/assets/97192a2e-1f64-4a4c-b625-5e5b1559252e)
+
+
+
+
+
+![Screenshot from 2024-11-15 18-35-05](https://github.com/user-attachments/assets/da06e762-f885-4921-8a63-7628cd6aa8a9)
 
 
 
@@ -12,15 +20,7 @@ Este programa foi feito utilizando a biblioteca java swing
 
 
 
-![Captura de tela 2024-11-13 174901](https://github.com/user-attachments/assets/0654ce0d-59ed-4158-93b8-0c4871a0d6b8)
 
-
-
-
-
-
-
-
-![Captura de tela 2024-11-13 174957](https://github.com/user-attachments/assets/3b838461-c886-4805-a6f9-61132be74a07)
+![Screenshot from 2024-11-15 18-35-41](https://github.com/user-attachments/assets/2db09be9-44df-4844-9230-28fada8c58aa)
 
 
