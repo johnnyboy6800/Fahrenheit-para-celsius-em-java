@@ -1,6 +1,8 @@
 # Fahrenheit-para-celsius-em-java
 Converta um valor de Fahrenheit para celsius utilizando este programa.
 
+Java 17 é necessário para compilar e executar o programa com mais praticidade
+
 Este programa foi feito utilizando a biblioteca java swing
 
 
